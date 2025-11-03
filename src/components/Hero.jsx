@@ -23,11 +23,7 @@ export default function Hero() {
           </button>
         </div>
       </div>
-      <img
-        src=""
-        alt="Business illustration"
-        className="hidden md:block w-[400px] rounded-lg shadow-lg"
-      />
+    
     </section>
   );
 }
