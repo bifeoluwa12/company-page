@@ -24,7 +24,7 @@ export default function Hero() {
         </div>
       </div>
       <img
-        src="/logo.png"
+        src=""
         alt="Business illustration"
         className="hidden md:block w-[400px] rounded-lg shadow-lg"
       />
